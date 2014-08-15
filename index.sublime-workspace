@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"french",
+				"french"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"person",
+				"personA"
+			],
+			[
+				"current",
+				"currentColor"
+			],
+			[
+				"curr",
+				"currentColor"
+			],
+			[
+				"my",
+				"myBox"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"blue",
+				"blueBox"
+			],
+			[
+				"green",
+				"greenBox"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"count",
+				"countclass"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/angular lesson/angular.min.js",
+		"/C/Users/Elizabeth/Desktop/test/index.html",
+		"/C/Users/Elizabeth/Pictures/Bubblesnew.jpg",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/css/style.css",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/Angular.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/Lesson 13/practice.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/Lesson 11/practice Javascript.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/Lesson 11/JS .getElementsByClassName.html",
+		"/C/Users/Elizabeth/AppData/Local/Microsoft/Windows/INetCache/IE/E6TDQL37/FBA1ZDYJRZ.txt",
+		"/C/Users/Elizabeth/AppData/Local/Microsoft/Windows/INetCache/IE/HSCMHV23/FBA1ZDYJSM.txt",
+		"/C/Users/Elizabeth/AppData/Local/Microsoft/Windows/INetCache/IE/HSCMHV23/FBA1ZDYJRZ.txt",
+		"/C/Users/Elizabeth/AppData/Local/Apps/2.0/Z894NKH9.4T4/41Y2ZRTE.0YT/gith..tion_317444273a93ac29_0002.0002_f44dcb2e9d4cde94/GitHub.exe",
+		"/C/Users/Elizabeth/Documents/PWAsiteClasswork.zip",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/assets/2014-11144-37.jpg",
+		"/C/Users/Elizabeth/Pictures/Bubbles copy.jpg",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/practicecrap.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/Thurspractice.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lotsmore10precourse.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/SatWork.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson10precourse.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/morelesson9pre.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/practice",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson9preclass.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/ThursWork.html",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/assets/grayStripesBackground",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/assets/beehivestartupslogo.png",
+		"/C/Users/Elizabeth/Documents/Websites/bootstrapPractice",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/assets/dailyheraldlogo.png",
+		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/css",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/html/New Home page",
+		"/C/Users/Elizabeth/Documents/Websites/Vantage Rentals/index.html",
+		"/C/Users/Elizabeth/Documents/Website Code/html/kids.html",
+		"/C/Users/Elizabeth/Documents/Website Code/index.html",
+		"/C/Users/Elizabeth/Documents/Website Code/html/professional.html",
+		"/C/Users/Elizabeth/Documents/Website Code/html/index.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\Users\\Elizabeth\\Documents\\Websites\\Personal\\assets"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"position:absolute;",
+			"</div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
