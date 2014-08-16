@@ -87,6 +87,9 @@
 	},
 	"file_history":
 	[
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/Assets/test.txt",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/angular lesson/angular.min.js",
 		"/C/Users/Elizabeth/Desktop/test/index.html",
 		"/C/Users/Elizabeth/Pictures/Bubblesnew.jpg",
@@ -111,7 +114,6 @@
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/practice",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson9preclass.html",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/ThursWork.html",
-		"/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
 		"/C/Users/Elizabeth/Documents/Websites/Personal/assets/grayStripesBackground",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/assets/beehivestartupslogo.png",
 		"/C/Users/Elizabeth/Documents/Websites/bootstrapPractice",
@@ -236,9 +238,9 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 177.0,
 	"status_bar_visible": true,
 	"template_settings":
