@@ -1,7 +1,31 @@
-
-	.EvaLouiseLogo{
-
+	#topNavbar{
+		background-color:#B6B6B6;
+		font-size:18px;
+	}
+	#mainNav{
+		color:#B6B6B6;
 	}
 	#topLogo{
 		text-align: center;
+		margin-bottom: 20px;
+		}
+	#bottomNav{
+		background-color:#B6B6B6;
+		padding-bottom: 15px;
+		font-size: 16px;
+	}
+	.swirldivider{
+		text-align: center;
+		border-color:black;
+		border-style: solid;
+		width:1020px;
+		
+
+	}	
+
+	.white-text{
+		color: white !important;
+	}
+	.gray-text{
+		color: #B6B6B6;
 	}

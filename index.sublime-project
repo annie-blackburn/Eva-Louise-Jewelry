@@ -3,27 +3,11 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "assets"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "css"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "fonts"
+			"path": "."
 		},
 		{
 			"follow_symlinks": true,
 			"path": "fonts\\js"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "style.css"
-		},
-		{
-			"follow_symlinks": true,
-			"path": "."
 		}
 	]
 }
