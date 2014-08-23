@@ -68,10 +68,10 @@
 	"buffers":
 	[
 		{
-			"file": "style.css",
+			"file": "/C/Users/Elizabeth/Desktop/new_lesson/practicenode.js",
 			"settings":
 			{
-				"buffer_size": 425,
+				"buffer_size": 167,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,33 +79,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4960,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/jquery.min.js",
-			"settings":
-			{
-				"buffer_size": 95785,
-				"line_ending": "Windows",
-				"name": "/*! jQuery v1.11.1 | (c) 2005, 2014 jQuery Foundat"
-			}
-		},
-		{
-			"file": "js/boostrap.min.js",
-			"settings":
-			{
-				"buffer_size": 31819,
-				"line_ending": "Windows",
-				"name": "/*!"
-			}
-		},
-		{
-			"file": "/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
-			"settings":
-			{
-				"buffer_size": 2505,
+				"buffer_size": 4952,
 				"line_ending": "Windows"
 			}
 		}
@@ -137,14 +111,20 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/page divider.png",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/darkerGrey.png",
+		"/C/Users/Elizabeth/Desktop/new_lesson/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/style.css",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/js/jquery.min.js",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/js/boostrap.min.js",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/IMG_0041.JPG",
+		"/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/page divider.png",
 		"/C/Users/Elizabeth/Documents/Websites/Personal/css/style.css",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson18/client/anothertemplate.html",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson18/client/index.html",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson18/client/mytemplate.html",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/lesson18again.html",
-		"/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/Assets/test.txt",
 		"/C/Users/Elizabeth/Documents/Websites/PWAsiteClasswork/angular lesson/angular.min.js",
 		"/C/Users/Elizabeth/Desktop/test/index.html",
@@ -220,35 +200,35 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "style.css",
+					"file": "/C/Users/Elizabeth/Desktop/new_lesson/practicenode.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 425,
+						"buffer_size": 167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								421,
-								421
+								167,
+								167
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 7.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -257,15 +237,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4960,
+						"buffer_size": 4952,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3053,
-								3053
+								4952,
+								4952
 							]
 						],
 						"settings":
@@ -275,110 +255,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1477.0,
+						"translation.y": 2327.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"file": "assets/GreenGlassBraclet.JPG",
-					"semi_transient": true,
-					"stack_index": 0,
-					"type": "image"
-				},
-				{
-					"buffer": 2,
-					"file": "js/jquery.min.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 95785,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								95785,
-								95785
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/*! jQuery v1.11.1 | (c) 2005, 2014 jQuery Foundat",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 60.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "js/boostrap.min.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31819,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31819,
-								31819
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/*!",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 100.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"file": "assets/IMG_0041.JPG",
-					"semi_transient": false,
-					"stack_index": 5,
-					"type": "image"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/Elizabeth/Documents/Websites/Personal/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2505,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
 					"type": "text"
 				}
 			]

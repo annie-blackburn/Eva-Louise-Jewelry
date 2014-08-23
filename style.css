@@ -5,9 +5,13 @@
 	#mainNav{
 		color:#B6B6B6;
 	}
+	#mainNav > ul > li {
+		text-align: center;
+	}
 	#topLogo{
 		text-align: center;
 		margin-bottom: 20px;
+
 		}
 	#bottomNav{
 		background-color:#B6B6B6;
@@ -15,12 +19,8 @@
 		font-size: 16px;
 	}
 	.swirldivider{
-		text-align: center;
-		border-color:black;
-		border-style: solid;
-		width:1020px;
-		
-
+		margin:auto;
+		display:block;
 	}	
 
 	.white-text{
@@ -28,4 +28,39 @@
 	}
 	.gray-text{
 		color: #B6B6B6;
+	}
+	#imgMargin{
+		margin-top: 15px;
+	}
+	.socialMedia{
+		height: 30px;
+		width: 30px;
+	}
+	.verticalCenter{
+		margin-top: 4px
+
+	}
+
+	.navbar-right > li {
+		float:right;
+	}
+	.socialCentering{
+		/*margin-left:25px;*/
+	}
+	.overlaybox {
+		height: 197px;
+	}
+	.overlaybox img {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+	}
+	.overlay{
+		width:262.5px;
+		height:196.875px;
+		background-color:black;
+		opacity:.5;
+		position:absolute;
+		top: 0px;
+		left: 0px;
 	}
