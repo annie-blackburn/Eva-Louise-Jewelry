@@ -68,10 +68,10 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Elizabeth/Desktop/new_lesson/practicenode.js",
+			"file": "products-necklaces.html",
 			"settings":
 			{
-				"buffer_size": 167,
+				"buffer_size": 7465,
 				"line_ending": "Windows"
 			}
 		},
@@ -79,7 +79,23 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4952,
+				"buffer_size": 5614,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1397,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/hover.js",
+			"settings":
+			{
+				"buffer_size": 3853,
 				"line_ending": "Windows"
 			}
 		}
@@ -111,10 +127,16 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/darkerGrey.png",
-		"/C/Users/Elizabeth/Desktop/new_lesson/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/products-necklaces.html",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/style.css",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/index.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/details page.html",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/js/hover.js",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/grey facebook.png",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/grey email.png",
+		"/C/Users/Elizabeth/Desktop/new_lesson/practicenode.js",
+		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/darkerGrey.png",
+		"/C/Users/Elizabeth/Desktop/new_lesson/index.html",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/js/jquery.min.js",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/js/boostrap.min.js",
 		"/C/Users/Elizabeth/Documents/Websites/Eva-Louise-Jewelry/assets/IMG_0041.JPG",
@@ -205,47 +227,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Elizabeth/Desktop/new_lesson/practicenode.js",
+					"file": "products-necklaces.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 167,
+						"buffer_size": 7465,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								167,
-								167
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4952,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4952,
-								4952
+								2510,
+								2510
 							]
 						],
 						"settings":
@@ -255,10 +249,99 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2327.0,
+						"translation.y": 1249.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3508,
+								3465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1775.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/hover.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3853,
+								3853
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -336,7 +419,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 177.0,
+	"side_bar_width": 201.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

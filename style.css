@@ -46,21 +46,39 @@
 	}
 	.socialCentering{
 		/*margin-left:25px;*/
+	
 	}
-	.overlaybox {
-		height: 197px;
+
+	#RowCenter{
+		margin:auto;
 	}
-	.overlaybox img {
-		position: absolute;
-		top: 0px;
-		left: 0px;
+	#RowCenter{
+		text-align: center;
 	}
-	.overlay{
-		width:262.5px;
-		height:196.875px;
-		background-color:black;
-		opacity:.5;
-		position:absolute;
-		top: 0px;
-		left: 0px;
-	}
+	 
+.thumbnail {
+
+    overflow:hidden;
+}
+ 
+.caption {
+    position:absolute;
+    top:-100%;
+    right:0;
+    background:rgba(26, 26,26, 0.75);
+    width:100%;
+    height:100%;
+    padding:0%;
+    text-align:center;
+    color: white !important;
+    z-index:2;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+.thumbnail:hover .caption {
+    top:0%;
+}
+    
