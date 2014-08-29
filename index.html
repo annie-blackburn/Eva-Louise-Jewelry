@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap 101 Template</title>
+    <title>Eva Louise Jewelry</title>
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,7 +20,7 @@
   <body>
   <header>
     <nav class="navbar navbar-default" role="navigation">
-    <div class="container-fluid">
+    <div id="topNavbar" class="container-fluid" >
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -33,36 +33,121 @@
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav">
-          <li><a href="#">BLOG</a></li>
-          <li><a href="#">SALE</a></li>
-          <li><a href="#">CONTACT</a></li>
-        </ul>
+
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse row" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav verticalCenter col-md-5">
+            <li><a class="white-text" href="#">BLOG</a></li>
+            <li><a class="white-text" href="#">SALE</a></li>
+            <li><a class="white-text" href="#">CONTACT</a></li>
+          </ul>
+          <!-- Social Media-->
+          <ul class="nav navbar-nav socialCentering col-md-3">
+            <li><a href="#"><img src="assets/grey facebook.png" class="socialMedia" alt="facebook icon"></a></li>
+            <li><a href="#"><img src="assets/grey email.png" class="socialMedia" alt="facebook icon"></a></li>
+            <li><a href="#"><img src="assets/grey pinterest.png" class="socialMedia" alt="facebook icon"></a></li>
+
+          </ul>  
+          <ul class="nav navbar-nav navbar-right verticalCenter col-md-4">
+            <li><a class="white-text" href="#">Shopping Cart</a></li>
+            
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div>
+    </div><!-- /.container-fluid -->
+  </nav>
+
+      <div class="EvaLouiseLogo" id="topLogo" >
+        <img class="image-responsive" src= 'assets/EvaLouiseLogoFinal.jpg' alt='EvaLouiseLogo'></img>   
+    </div>
+    
+</header>
+
+<!--Main Navigation Code-->
+<div class="container">
+<div id="mainNav" class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
+  <ul class="navbar nav-pills nav-justified" role="tablist" >
+    <li class="dropdown">
+      <a class="dropdown-toggle gray-text" data-toggle="dropdown" href="#">PRODUCTS <span class="caret"></span>
+      </a>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="/products-necklaces.html">Necklaces</a></li>
+      <li><a href="#">Bracelets</a></li>
+      <li><a href="#">Rings</a></li>
+      <li><a href="#">Other Fancy Stuff</a></li>
+      </ul>
+  </li>
+
+  <li><a class="gray-text" href="#">MY STORY</a></li>
+  <li><a class="gray-text" href="#">SOMETHING ELSE</a></li>
+  <li><a class="gray-text" href="#">CONTACT US</a></li>
+   
+</ul>
+</div> 
+
+<div class="container">
+      <img src="assets/darkerGrey.png" class="swirldivider" alt="pageswirl"></img>
+  </div>
+
+<!--Main Content Code-->
+<div class="container">
+<div class="row">
+  <div class="col-md-3 col-md-offset-1">
+    <img class=" img-responsive" id="imgMargin" src="assets/IMG_0507.jpg" alt="necklace"></img><br>
+    <img class=" img-responsive" src="assets/GoldNecklace.jpg" alt="necklace2"></img><br>
+    <img class=" img-responsive" src="assets/Wire Braclet 3.jpg" alt="bracelet"></img><br>
+  </div>  
+  <div class="col-md-8"> 
+    <h2> CAROUSEL IMAGES!!!</h2>
+
+</div>  
+</div>
+</div>
+</div><!--centering container-->
+
+
+
+
+<!--Bottom Navigation Code-->
+    
+<footer>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid" id="bottomNav">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-footer">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+       <form role="form">
+         <div class="form-group" class="row">
+            <div class="col-md-4">
+              <label for="exampleInputEmail1">Let's keep in touch!</label>
+              <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+        </div>
+        </div>
+        </form>
         
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="#">Shopping Cart</a></li>
+          <li><a href="#">BLOG</a></li>
           
         </ul>
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
   </nav>
-      <div class="EvaLouiseLogo" id="topLogo">
-        <img src= 'assets/EvaLouiseLogoFinal.png' alt='EvaLouiseLogo'></img>   
-    </div>
-</header> 
-<div class="mainNav">
-  <ul class="navbar nav-pills nav-justified" role="tablist">
-  <li><a href="#">PRODUCTS</a></li>
-  <li><a href="#">MY STORY</a></li>
-  <li><a href="#">SOMETHING ELSE</a></li>
-  <li><a href="#">CONTACT US</a></li>
-</ul>
-</div>   
+  
+</footer> 
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/boostrap.min.js"></script>
+
   </body>
 </html>
